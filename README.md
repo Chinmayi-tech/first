@@ -1,4 +1,4 @@
 # first
-this is my first git repo
+hello I am Chinmayi
 <br>
-Author-Chinmayi
+This is my first repo
